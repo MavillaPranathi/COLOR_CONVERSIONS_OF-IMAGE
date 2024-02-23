@@ -53,9 +53,7 @@ Register Number: 212222240064
 
 ### OUTPUT:
 
- ![output01](https://github.com/Adithya-Siddam/COLOR_CONVERSIONS_OF-IMAGE/assets/93427248/2aa4c323-d2e3-4452-a100-db8ada952c78)
-
-
+![image](https://github.com/MavillaPranathi/COLOR_CONVERSIONS_OF-IMAGE/assets/118343610/f801b63d-a080-4806-81eb-acf841b582a6)
 
 ### ii)Write the image
 
